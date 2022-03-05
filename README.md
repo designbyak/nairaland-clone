@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.nairaland.com/static/logo1.png" width="400"></a></p>
 
-## About Laravel
+## About Nairaland Clone Built By Certified Ak On Laravel
 
 Nairaland is a Nigerian English-language internet forum. Founded by Nigerian entrepreneur Seun Osewa on March 8, 2005, it is targeted primarily at Nigerian domestic residents and is the 6th most visited website in Nigeria. 
 
